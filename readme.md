@@ -7,6 +7,7 @@ Node.js Terminal Color Generator.
 ## Running this repo:
 
 - clone using `git clone https://github.com/richokorn/pjct-node-1-random-color-generator` once you've navigated to a folder of your choice in the CLI of choice.
+- you probably also need `kulers` and `random-color` from npmjs.com
 - run using `node index.js` for the random pretty colors
 - optionally you may run `node index.js red` (or any other basic color name) to get a random color and hex code in that hue.
 - optionally you may _also_ run `node index.js red bright` (or `dark` or `light`) to change the luminosity
