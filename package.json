@@ -1,0 +1,8 @@
+{
+  "name": "pjct-node-1-random-color-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/richokorn/pjct-node-1-random-color-generator.git",
+  "author": "Richard Korn <richo.korn@gmail.com>",
+  "license": "MIT"
+}
