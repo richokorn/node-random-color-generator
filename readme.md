@@ -1,8 +1,7 @@
-An application to return a random color in command line.
-
 ## What:
 
 Node.js Terminal Color Generator.
+An application to return a random color in command line.
 
 ## Running this repo:
 
