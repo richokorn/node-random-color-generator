@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
-  "repository": "https://github.com/richokorn/pjct-node-1-random-color-generator.git",
+  "repository": "https://github.com/richokorn/node-random-color-generator.git",
   "author": "Richard Korn <richo.korn@gmail.com>",
   "license": "MIT",
   "devDependencies": {
